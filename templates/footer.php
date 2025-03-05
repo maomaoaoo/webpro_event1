@@ -1,5 +1,5 @@
          <p>
-             &copy; <?= date('Y') ?>. All rights reserved by Aj.M.
+             &copy; <?= date('Y') ?>.หรือการแก้ไขอยู่ไหม.
          </p>
          </footer>
          </body>
